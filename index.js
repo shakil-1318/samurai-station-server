@@ -10,8 +10,6 @@ const port = process.env.PORT || 8000;
 app.use(cors());
 app.use(express.json());
 
-// ByZjhHkBc4WvIWyY
-// samuraiDB
 
 const uri = "mongodb+srv://samuraiDB:ByZjhHkBc4WvIWyY@cluster0.ssi7z.mongodb.net/?retryWrites=true&w=majority";
 
